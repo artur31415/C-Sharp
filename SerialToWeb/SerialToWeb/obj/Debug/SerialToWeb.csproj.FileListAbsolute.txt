@@ -1,0 +1,9 @@
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\bin\Debug\SerialToWeb.exe.config
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\bin\Debug\SerialToWeb.exe
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\bin\Debug\SerialToWeb.pdb
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.csprojResolveAssemblyReference.cache
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.Form1.resources
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.Properties.Resources.resources
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.csproj.GenerateResource.Cache
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.exe
+D:\Sovngarde\SOFT\C#\SerialToWeb\SerialToWeb\obj\Debug\SerialToWeb.pdb

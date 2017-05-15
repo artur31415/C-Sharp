@@ -1,0 +1,9 @@
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\bin\Debug\UdpSocket.exe.config
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\bin\Debug\UdpSocket.exe
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\bin\Debug\UdpSocket.pdb
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.csprojResolveAssemblyReference.cache
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.Form1.resources
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.Properties.Resources.resources
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.csproj.GenerateResource.Cache
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.exe
+D:\Sovngarde\SOFT\C#\UdpSocket\UdpSocket\obj\Debug\UdpSocket.pdb

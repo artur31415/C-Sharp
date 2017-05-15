@@ -1,0 +1,16 @@
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.exe
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.pdb
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.Form1.resources
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.Properties.Resources.resources
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.csproj.GenerateResource.Cache
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.exe
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.pdb
+C:\Users\ARTUR\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.csprojResolveAssemblyReference.cache
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.exe
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.pdb
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.exe
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.pdb
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.csprojResolveAssemblyReference.cache
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.Form1.resources
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.Properties.Resources.resources
+C:\Users\sigma\Documents\SOFT\C#\SocketCommunication\SocketCommunication\obj\x86\Debug\SocketCommunication.csproj.GenerateResource.Cache

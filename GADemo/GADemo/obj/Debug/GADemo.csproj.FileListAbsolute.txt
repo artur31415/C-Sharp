@@ -1,0 +1,15 @@
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\bin\Debug\GADemo.exe.config
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\bin\Debug\GADemo.exe
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\bin\Debug\GADemo.pdb
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.csprojResolveAssemblyReference.cache
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.Form1.resources
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.Properties.Resources.resources
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.csproj.GenerateResource.Cache
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.exe
+D:\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.pdb
+E:\SovngardeII\Sovngarde\SOFT\C#\GADemo\GADemo\bin\Debug\GADemo.exe.config
+E:\SovngardeII\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.exe
+E:\SovngardeII\Sovngarde\SOFT\C#\GADemo\GADemo\obj\Debug\GADemo.pdb
+C:\Nirvana\NeoSoft\C#\GADemo\GADemo\bin\Debug\GADemo.exe.config
+C:\Nirvana\NeoSoft\C#\GADemo\GADemo\obj\Debug\GADemo.exe
+C:\Nirvana\NeoSoft\C#\GADemo\GADemo\obj\Debug\GADemo.pdb

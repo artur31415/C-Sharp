@@ -1,0 +1,9 @@
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\bin\Debug\NEAT_Demo.exe.config
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\bin\Debug\NEAT_Demo.exe
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\bin\Debug\NEAT_Demo.pdb
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.csprojResolveAssemblyReference.cache
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.Form1.resources
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.Properties.Resources.resources
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.csproj.GenerateResource.Cache
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.exe
+D:\Sovngarde\SOFT\C#\NEAT_Demo\NEAT_Demo\obj\Debug\NEAT_Demo.pdb
